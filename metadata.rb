@@ -1,0 +1,7 @@
+name             'git-flow'
+maintainer       'Lawrance Shepstone'
+maintainer_email 'lawrance.shepstone@gmail.com'
+license          'All rights reserved'
+description      'Installs git-flow'
+version          '0.1.0'
+depends          'git'
